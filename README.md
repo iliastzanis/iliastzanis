@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋,
+My name is Ilias Tzanis and i am currently studying at [Ionian University Department of Informatics](https://di.ionio.gr/en/)
+- 🌱 I’m currently learning <img src = "https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png"  width="13" height="13"/>otlin and Android App Development
+- 📫 How to reach me: [Open an issue here](https://github.com/iliastzanis/iliastzanis/issues/new/choose)
+
+
+### Social Media
+[LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
+
 
 <!--
 **iliastzanis/iliastzanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
