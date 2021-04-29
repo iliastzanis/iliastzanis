@@ -1,6 +1,6 @@
 ### Hi there 👋,
 My name is Ilias Tzanis and i am currently studying at [Ionian University Department of Informatics](https://di.ionio.gr/en/)
-- 🌱 I’m currently learning <img src = "https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png"  width="13" height="13"/>otlin and Android App Development
+- 🌱 I’m currently learning React Native and I am developing a demo for a mobile crowdsensing application.
 - 📫 How to reach me: [Open an issue here](https://github.com/iliastzanis/iliastzanis/issues/new/choose)
 
 
@@ -12,7 +12,7 @@ My name is Ilias Tzanis and i am currently studying at [Ionian University Depart
 **iliastzanis/iliastzanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning <img src = "https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png"  width="13" height="13"/>otlin and Android App Development
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
