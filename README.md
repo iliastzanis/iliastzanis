@@ -10,10 +10,9 @@ My name is Ilias Tzanis and I'm a software developer currently pursuing my Maste
 I am always eager to learn new things and expand my skillset to develop even more impressive projects. If you'd like to connect with me or have any questions, please don't hesitate to [open an issue here](https://github.com/iliastzanis/iliastzanis/issues/new/choose).
 
 
-
-> ### Social Media
-> [LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
-> [Instagram](https://www.instagram.com/iliastzanis/)
+>### 🌍 Social Media
+>[LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)<br>
+>[Instagram](https://www.instagram.com/iliastzanis/)
 
 
 <!--
