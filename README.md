@@ -11,7 +11,8 @@ I am always eager to learn new things and expand my skillset to develop even mor
 
 
 >### 🌍 Social Media
->[LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)<br>
+>[LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
+><br>
 >[Instagram](https://www.instagram.com/iliastzanis/)
 
 
