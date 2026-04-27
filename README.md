@@ -9,6 +9,5 @@ If you're interested in connecting or have any questions, feel free to reach out
 ### 🌍 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
-- [Instagram](https://www.instagram.com/iliastzanis/)
 
 
