@@ -1,13 +1,45 @@
-# Hi there 👋
+# Hi there 👋 I'm Ilias Tzanis
 
-I'm a recent MSc graduate in Big Data Driven Networked Systems from the [Ionian University Department of Informatics](https://di.ionio.gr/en/), also holding a BSc in Informatics from the same institution. My academic journey has equipped me with a solid foundation in technology and a keen aptitude for tackling complex problems. I've honed my skills in mobile and web application development, delivering innovative and quality solutions.
+I am a **Software Engineer** specializing in Conversational AI application development, scripting, and automation. Currently, I design and build complex, enterprise-level conversational applications and IVR systems at **Omilia**, utilizing JavaScript, JSON, and robust CI/CD practices. 
 
-I enjoy collaborative environments where I can apply my theoretical knowledge and technical skills to make a meaningful contribution and develop in a dynamic working environment. I am driven by a constant desire to learn and expand my skills, with the aim of developing projects that are not only impressive but also impactful.
+With a strong academic background in Big Data and Informatics, backed by corporate experience handling high-priority incident management, I love turning complex data and logical workflows into seamless, impactful solutions.
 
-If you're interested in connecting or have any questions, feel free to reach out by [opening an issue on my GitHub](https://github.com/iliastzanis/iliastzanis/issues/new/choose).
+---
+
+### 🚀 What I Do Best
+
+*   **Conversational AI & Engineering:** Designing IVR workflows, dialogue management, and complex application logic using JavaScript and JSON configurations.
+*   **Automation & CI/CD:** Writing Bash scripts to automate deployments and building YAML-based automated regression test suites.
+*   **System Monitoring & Support:** Experienced in L2 technical support, analyzing logs, and handling real-time P1/P2/P3 incident management using Grafana and ServiceNow.
+*   **API Integration:** Connecting external REST APIs, handling data validation, and building resilient fallback behaviors.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Scripting** | JavaScript, Python, Bash, HTML, CSS |
+| **Conversational AI** | Omilia OCP Platform, IVR Design, JSON Configurations |
+| **Automation & Ops** | API Integrations, YAML Test Definitions, CI/CD, Git, GitHub, GitLab |
+| **Monitoring & Support** | Grafana, ServiceNow, Log Analysis (L2 Support) |
+| **Web & CMS** | WordPress, WooCommerce, Elementor |
+| **AI & Productivity** | Cursor, Claude, Confluence |
+
+---
+
+### 🎓 Education
+
+*   **MSc in Big Data & Networked Systems** | *Ionian University* (Graduated 2024)
+    *   *Thesis:* Bitcoin Price Prediction Using Deep Learning (Time-series forecasting)
+*   **BSc in Informatics** | *Ionian University* (Graduated 2022)
+    *   *Thesis:* Mapography Mobile Crowdsensing Application Demo
+
+---
 
 ### 🌍 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
+If you're interested in collaborating on a project, talking about Conversational AI, or just want to say hi, feel free to reach out!
 
-
+*   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
+*   📥 Or just [open an issue right here on my GitHub](https://github.com/iliastzanis/iliastzanis/issues/new/choose)
