@@ -6,7 +6,7 @@
 
 Building applications, connecting systems and exploring practical uses of AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilias%20Tzanis-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNVpNMyA5aDR2MTJIM3ptNiAwaDMuOHYxLjY1aC4wNWE0LjE3IDQuMTcgMCAwIDEgMy43NS0yLjA1QzIwLjYgOC42IDIxIDExLjIgMjEgMTQuNlYyMWgtNHYtNS42OGMwLTEuMzYtLjAzLTMuMS0xLjktMy4xLTEuOSAwLTIuMiAxLjQ4LTIuMiAzVjIxSDl6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/ilias-tzanis/)
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/ilias-tzanis/)
 
 </div>
 
@@ -37,7 +37,7 @@ and exploring automation and applied AI.
 **Backend & integrations**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
 
 **Tools**
@@ -46,7 +46,7 @@ and exploring automation and applied AI.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=chatgpt&logoColor=white)
+![Codex](assets/codex-badge.svg)
 
 ## 🎯 Areas of interest
 
@@ -64,6 +64,6 @@ and exploring automation and applied AI.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilias-tzanis/">
-    <img src="assets/linkedin-footer.svg" alt="Igoumenitsa, Greece · LinkedIn" width="273" height="28">
+    <img src="assets/linkedin-footer.svg" alt="Igoumenitsa, Greece · LinkedIn" width="228" height="28">
   </a>
 </p>
