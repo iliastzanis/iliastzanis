@@ -1,89 +1,69 @@
-# Hi there 👋 I'm Ilias Tzanis
+<div align="center">
 
-I'm a **Software Engineer** focused on application development, REST API integrations, automation, testing, and production troubleshooting.
+# Hi, I'm Ilias 👋
 
-Currently, I work at **Omilia** as a **Conversational AI Application Developer**, where I develop and maintain enterprise conversational applications, translate business requirements into application logic and integrations, and support applications across development, testing, and production environments.
+### Software Engineer · API Integrations · Conversational AI
 
-I also have previous experience in **second-level technical support and IT operations**, giving me a strong understanding of debugging, monitoring, incident management, and production systems.
+Building applications, connecting systems and exploring practical uses of AI.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilias%20Tzanis-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNVpNMyA5aDR2MTJIM3ptNiAwaDMuOHYxLjY1aC4wNWE0LjE3IDQuMTcgMCAwIDEgMy43NS0yLjA1QzIwLjYgOC42IDIxIDExLjIgMjEgMTQuNlYyMWgtNHYtNS42OGMwLTEuMzYtLjAzLTMuMS0xLjktMy4xLTEuOSAwLTIuMiAxLjQ4LTIuMiAzVjIxSDl6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/ilias-tzanis/)
 
-### 🚀 What I Work On
-
-* **Application Development:** Building and maintaining application logic and end-to-end workflows using JavaScript and JSON.
-* **REST API Integrations:** Integrating external services, mapping JSON requests and responses, validating data, and handling transformations.
-* **Automation & Scripting:** Writing JavaScript and Bash scripts for application functionality, workflow automation, and environment configuration.
-* **Automated Testing:** Creating and executing automated test scenarios to identify regressions and support reliable releases.
-* **Production Troubleshooting:** Investigating logs, operational data, and application behavior to diagnose and resolve production issues.
-* **Technical Collaboration:** Working with QA, infrastructure engineers, and project stakeholders across development, testing, and production environments.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About me
 
-| Category                    | Technologies & Tools                                              |
-| :-------------------------- | :---------------------------------------------------------------- |
-| **Programming & Scripting** | JavaScript, Bash, Python, SQL, HTML, CSS                          |
-| **Application Development** | REST APIs, JSON, Data Mapping & Transformation, Application Logic |
-| **Testing & Debugging**     | Automated Testing, Regression Testing, Debugging, Log Analysis    |
-| **Dev Tools**               | Git, GitHub, GitLab, Jira                                         |
-| **Monitoring & Operations** | Grafana, ServiceNow, Linux/Unix, Incident Management              |
-| **Conversational AI**       | Omilia OCP Platform, Conversational Applications, IVR Workflows   |
-| **Web**                     | WordPress                                                         |
+I'm a software engineer from Greece with experience developing enterprise
+applications, integrating external APIs and building conversational AI solutions.
 
----
+At Omilia, I worked with JavaScript and Bash to implement application logic,
+integrations, data transformations and automated tests. My background in
+production support also shaped how I approach troubleshooting and application
+reliability.
 
-### 💼 Experience
+I'm currently expanding my backend development skills with **PHP and Laravel**
+and exploring automation and applied AI.
 
-**Software Engineer – Conversational AI Application Developer**
-*Omilia | March 2025 – Present*
+## 🛠️ Technologies & tools
 
-* Develop and maintain conversational AI applications for enterprise clients.
-* Build application logic, REST API integrations, and end-to-end data flows.
-* Write JavaScript and Bash scripts for functionality and automation.
-* Create automated test scenarios and investigate application regressions.
-* Diagnose production issues through application logs and operational data.
-* Collaborate with QA, infrastructure, and project teams throughout the software lifecycle.
+**Languages**
 
-**IT Consultant & SL2 Support**
-*European Dynamics | June 2024 – February 2025*
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* Provided second-level technical support for enterprise applications.
-* Monitored system health and application performance using Grafana and logging tools.
-* Investigated application errors, performance issues, and recurring incidents.
-* Managed incidents and service requests through ServiceNow.
-* Collaborated with development and infrastructure teams to resolve complex issues.
+**Backend & integrations**
 
----
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
 
-### 🎓 Education
+**Tools**
 
-**MSc in Big Data & Networked Systems**
-*Ionian University | 2024*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=chatgpt&logoColor=white)
 
-**Thesis:** *Bitcoin Price Prediction Using Deep Learning*
+## 🎯 Areas of interest
 
-Developed and compared **ARIMAX, Support Vector Machine, and LSTM** models for Bitcoin price forecasting using Python-based data processing and time-series analysis.
+🔌 **System integrations** — connecting applications and external services  
+⚙️ **Backend development** — learning PHP and Laravel  
+🤖 **Conversational & applied AI** — building useful, practical solutions  
+🔍 **Troubleshooting & testing** — understanding and improving application behaviour  
 
-**BSc in Informatics**
-*Ionian University | 2022*
+## 🎓 Education
 
-**Thesis:** *Mapography – Mobile Crowdsensing Application*
-
-Developed a collaborative mobile application prototype using **React Native, Expo, and AWS Amplify**.
+**MSc, Big Data & Networked Systems** · Ionian University  
+**BSc, Informatics** · Ionian University
 
 ---
 
-### 🌍 Languages
-
-* 🇬🇷 Greek — Native
-* 🇬🇧 English — Professional
-* 🇩🇪 German — B2
-
----
-
-### 🤝 Let's Connect
-
-I'm always interested in software engineering, backend development, API integrations, automation, and building reliable applications.
-
-💼 [LinkedIn](https://www.linkedin.com/in/ilias-tzanis/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilias-tzanis/">
+    <img src="assets/linkedin-footer.svg" alt="Igoumenitsa, Greece · LinkedIn" width="273" height="28">
+  </a>
+</p>
