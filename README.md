@@ -64,6 +64,6 @@ and exploring automation and applied AI.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilias-tzanis/">
-    <img src="assets/linkedin-footer.svg" alt="Igoumenitsa, Greece · LinkedIn" width="228" height="28">
+    <img src="assets/linkedin-footer.svg" alt="Igoumenitsa, Greece · LinkedIn" width="195" height="24">
   </a>
 </p>
